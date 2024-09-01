@@ -180,12 +180,14 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true) &nbsp; &nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrakmondal6612&theme=radical&hide_border=false)
+&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true) &nbsp; 
+
 
 &nbsp; &nbsp;&nbsp;&nbsp;
 <br/>
-&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakmondal6612&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
