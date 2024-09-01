@@ -180,7 +180,6 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 
-<p align="left>
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrakmondal6612&theme=radical&hide_border=false)
 &nbsp;&nbsp;&nbsp;
@@ -192,7 +191,6 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakmondal6612&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
