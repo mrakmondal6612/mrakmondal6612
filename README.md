@@ -31,9 +31,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img src="https://img.shields.io/twitter/follow/Ajay Mondal?logo=twitter&style=for-the-badge" alt="Ajay" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps & Web3**
+<ul>
+  <li> 💻 I'm currently working for <a href="https://github.com/mrakmondal6612">Ajay Mondal</a> </li>
+  <li> 🎓 Software Engineering B. Tech (CSE) Graduate from <a href="https://www.makautexam.net/">MAKAUT University</a> </li>
+  <li> ✨ My favorite side project is <a href="https://mrakmondal6612.github.io/Game_Frame/">Says Simon Game</a> </li>
+  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
+  <li> 📫 How to reach me **mrakmondal6612@gmail.com**</li>
+</li>
+</ul>
 
-- 📫 How to reach me **mrakmondal6612@gmail.com**
+- 🌱 I’m currently learning **DevOps & Web3**
 
 - ⚡ Fun fact **I think I am funny sometimes.**
 #
@@ -51,14 +58,47 @@ Here are some ideas to get you started:
 </p>
 
 
-    
 
+#  
+## 📊 GitHub Stats:
+
+  
+![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakmondal6612&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrakmondal6612&theme=radical&hide_border=false)
 
 <!-- <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"> -->
 
+<h2 align="center">Contribution Graph 📊</h2>
+
+[![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrakmondal6612&theme=chartreuse-dark)](https://github.com/mrakmondal6612/github-readme-activity-graph)
 
     
-# 🖥️ Technical Skills:
+## 🖥️ Technical Skills:
+
+
+<img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
+
+<!-- 
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+<br>
+![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
+![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
+![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
+![express](https://img.shields.io/badge/express?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
+<br>
+![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
+![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+<br>
+![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
+![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
+![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+
 <div>
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
@@ -99,7 +139,7 @@ Here are some ideas to get you started:
   </a> -->
   <!-- <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
-  </a> -->
+  </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -108,7 +148,7 @@ Here are some ideas to get you started:
   </a>
   <!-- <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a> -->
+  </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
@@ -117,7 +157,7 @@ Here are some ideas to get you started:
   </a>
   <!-- <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a> -->
+  </a> 
   <a href="https://www.json.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
   </a>
@@ -129,7 +169,7 @@ Here are some ideas to get you started:
   </a> -->
   <!-- <a href="https://wordpress.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
-  </a> -->
+  </a> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40"/>
   </a>
@@ -138,7 +178,7 @@ Here are some ideas to get you started:
   </a>
   <!-- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a> -->
+  </a> 
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/1200px-Kali-dragon-icon.svg.png" alt="linux" width="50" height="50"/>
   </a>
@@ -150,13 +190,13 @@ Here are some ideas to get you started:
   </a>
   <!-- <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a> -->
+  </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
   <!-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a> -->
+  </a>
   <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -171,7 +211,7 @@ Here are some ideas to get you started:
   </a> -->
   <!-- <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  </a> -->
+  </a> 
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://www.factfc.com/wp-content/uploads/2024/04/express-js.png" alt="express" width="60" height="40"/>
   </a>
@@ -183,15 +223,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 </div>
+-->
 
-
-
-# 📊 GitHub Stats:
-
-  
-![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakmondal6612&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrakmondal6612&theme=radical&hide_border=false)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
@@ -209,9 +242,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
 </a>
-</p>
+</p> 
 
 <br/>
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mrakmondal6612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -223,11 +258,18 @@ JavaScript   3 hrs 58 mins    ████████████████�
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mrakmondal6612.mrakmondal6612.svg)
 
-#
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
+</p>
+<p align="center">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
+  <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
+  <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
+</p>
