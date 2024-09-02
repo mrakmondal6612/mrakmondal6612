@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://AnkanBera.io) -->
 
 
-
+[![MasterHead](https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/mrakmondal6612)
 
 <h1 align="center">Hi 👋, I'm Ajay Mondal</h1>
 
@@ -36,11 +36,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me **mrakmondal6612@gmail.com**
 
 - ⚡ Fun fact **I think I am funny sometimes.**
+#
 
-<h3 align="left">Connect with me:</h3>
+
+# 🤝 Connect with me:
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaymondal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ajay-LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="40"/></a>
+<a href="https://linktr.ee/" target="blank"><img align="center" src="https://ugc.production.linktr.ee/54520076-59d8-4151-8e3e-a7ea99876071_ident-canopy.gif?io=true&size=avatar-v3_0" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Ajay" width="40" /> </a>
+<a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ankan-bera-8a2920244" width="40" />
+<a href="https://instagram.com/b.tech_ak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ankanbera10" width="40" />
+<a href="https://www.geeksforgeeks.org/user/mrakmondal6612/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="beraanvttt" width="40" /></a>
+
+</p>
 
 
     
@@ -188,7 +196,20 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
-</a></p>
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+</p>
 
 <br/>
 
@@ -202,5 +223,11 @@ JavaScript   3 hrs 58 mins    ████████████████�
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mrakmondal6612.mrakmondal6612.svg)
 
-
+#
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
