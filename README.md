@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img src="https://img.shields.io/twitter/follow/Ajay Mondal?logo=twitter&style=for-the-badge" alt="Ajay" /></a> </p>
 
 <ul>
-  <li> 💻 I'm currently working for <a href="https://github.com/mrakmondal6612">Ajay Mondal</a> </li>
+  <li> 💻 Hello Everyone I'm <a href="https://github.com/mrakmondal6612">Ajay Mondal</a> </li>
   <li> 🎓 Software Engineering B. Tech (CSE) Graduate from <a href="https://www.makautexam.net/">MAKAUT University</a> </li>
   <li> ✨ My favorite side project is <a href="https://mrakmondal6612.github.io/Game_Frame/">Says Simon Game</a> </li>
   <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
