@@ -227,12 +227,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+<!-- <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
-</a>
-  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+</a> -->
+<!--   <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
-</a>
+</a> -->
   <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
 </a>
