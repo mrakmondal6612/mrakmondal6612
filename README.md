@@ -47,15 +47,40 @@ Here are some ideas to get you started:
 
 
 # 🤝 Connect with me:
-<p align="left">
-<a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="40"/></a>
-<a href="https://linktr.ee/" target="blank"><img align="center" src="https://ugc.production.linktr.ee/54520076-59d8-4151-8e3e-a7ea99876071_ident-canopy.gif?io=true&size=avatar-v3_0" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Ajay" width="40" /> </a>
-<a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ankan-bera-8a2920244" width="40" />
-<a href="https://instagram.com/b.tech_ak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ankanbera10" width="40" />
-<a href="https://www.geeksforgeeks.org/user/mrakmondal6612/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="beraanvttt" width="40" /></a>
-
+<p align="center">
+<a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="120"/></a>
+<a href="https://linktr.ee/" target="blank"><img align="center" src="https://ugc.production.linktr.ee/54520076-59d8-4151-8e3e-a7ea99876071_ident-canopy.gif?io=true&size=avatar-v3_0" width="100" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Ajay" width="150" /> </a>
+<a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ajay" width="160" />
+<a href="https://instagram.com/b.tech_ak" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="ajay" width="150" />
+<a href="https://www.geeksforgeeks.org/user/mrakmondal6612/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="beraanvttt" width="100" /></a>
 </p>
+  
+
+<br>
+
+#
+
+# <a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/></a> Leetcode Info 
+<br>
+<div align="center">
+
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mrakmondal6612?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
+<br>
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=black&filter=study" />
+</div>
+
+<!-- 
+<p align="center">
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p> -->
 
 
 
