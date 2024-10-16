@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=kevzpeter&theme=black&filter=study" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=mrakmondal6612&theme=black&font=Nunito&ext=heatmap" />
 </div>
 
 <!-- 
