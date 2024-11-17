@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 # <a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/></a> Leetcode Info 
 <br>
 <div align="center">
-
+<!--
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mrakmondal6612?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-
+-->
 <br>
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mrakmondal6612&theme=black&font=Nunito&ext=heatmap" />
