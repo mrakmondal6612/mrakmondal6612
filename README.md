@@ -1,52 +1,66 @@
-<!--
-**mrakmondal6612/mrakmondal6612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://AnkanBera.io) -->
-
-
 [![MasterHead](https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/mrakmondal6612)
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h1 align="center">Hi 👋, I'm Ajay Mondal</h1>
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+</p> 
 
 <p align="center">
   <a href="https://github.com/mrakmondal6612">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ajay+Mondal.....;Nice+To+Meet+You+....&center=true"></a>
 </p>
 
+<div id="header" align="center">  
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
+</div>
+
+
+<h1 align="center">Hi 👋, I'm Ajay Mondal</h1>
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CSE'26+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrakmondal6612&label=Profile%20views&color=0e75b6&style=flat" alt="mrakmondal6612" /> </p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img src="https://img.shields.io/twitter/follow/Ajay Mondal?logo=twitter&style=for-the-badge" alt="Ajay" /></a> </p>
-
-<ul>
-  <li> 💻 Hello Everyone I'm <a href="https://github.com/mrakmondal6612">Ajay Mondal</a> </li>
-  <li> 🎓 Software Engineering B. Tech (CSE) Graduate from <a href="https://www.makautexam.net/">MAKAUT University</a> </li>
-  <li> ✨ My favorite side project is <a href="https://mrakmondal6612.github.io/Game_Frame/">Says Simon Game</a> </li>
-  <li> 🔭 My newest side project is currently still in stealth mode 🤫 </li>
-  <li> 📫 How to reach me **mrakmondal6612@gmail.com**</li>
-</li>
-</ul>
-
-- 🌱 I’m currently learning **DevOps & Web3**
-
-- ⚡ Fun fact **I think I am funny sometimes.**
-#
+</div>
 
 
-# 🤝 Connect with me:
+<!--view count-->
+<div align="center">  
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img src="https://img.shields.io/twitter/follow/Ajay Mondal?logo=twitter&style=for-the-badge" alt="Ajay" /></a> 
+  <img width="160px" src="https://komarev.com/ghpvc/?username=mrakmondal6612&label=Profile%20views&color=0e75b6&style=flat" alt="mrakmondal6612" /> 
+</div>
+
+<br>
+
+<div align="center">
+  <p>💻 Hello Everyone I'm <a href="https://github.com/mrakmondal6612">Ajay Mondal</a></p>
+  <p>🎓 Software Engineering B. Tech (CSE) Graduate from <a href="https://www.makautexam.net/">MAKAUT University</a></p>
+  <p>✨ My favorite side project is <a href="https://mrakmondal6612.github.io/Game_Frame/">Says Simon Game</a></p>
+  <p>🔭 My newest side project is currently still in stealth mode 🤫</p>
+ <p> 📫 How to reach me **mrakmondal6612@gmail.com**</p>
+  <p> 🌱 I’m currently learning **DevOps & Web3**</p>
+  <p>⚡ Fun fact **I think I am funny sometimes.**</p>
+</div>
+<br><br>
+
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+ <h1 align="center" >🤝 Connect with me:</h1>
 <p align="center">
 <a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="120"/></a>
 <a href="https://linktr.ee/" target="blank"><img align="center" src="https://ugc.production.linktr.ee/54520076-59d8-4151-8e3e-a7ea99876071_ident-canopy.gif?io=true&size=avatar-v3_0" width="100" /></a>
@@ -56,36 +70,127 @@ Here are some ideas to get you started:
 <a href="https://www.geeksforgeeks.org/user/mrakmondal6612/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/uploads/20210608021423/Output.gif" alt="beraanvttt" width="100" /></a>
 </p>
   
-
 <br>
 
-#
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# <a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/></a> Leetcode Info 
+<h1 align="center" >
+  <a href="https://leetcode.com/u/mrakmondal6612/" target="blank"> 
+    <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/>
+  </a> 
+   Leetcode Info 
+</h1>
+<P align="center">
+<img  src="https://leetcode-badge-showcase.vercel.app/api?username=mrakmondal6612&theme=black&font=Nunito&ext=heatmap" />
+</P>
 <br>
-<div align="center">
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+  <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
+</a>
+</p> 
+<br>
 <!--
+<div align="center">
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mrakmondal6612?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
--->
 <br>
-
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=mrakmondal6612&theme=black&font=Nunito&ext=heatmap" />
 </div>
+-->
 
-<!-- 
 <p align="center">
-  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p> -->
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="mrakmondal6612" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="mrakmondal6612" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="mrakmondal6612" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="mrakmondal6612" height="200" width="200" /></a>
+</p> 
+<br>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+ <br>
+
+<!-- Streak feature -->
+<!--stats-->
+<h1 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h1>
+<div align="center" width="50%">
+
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakmondal6612&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+<div>
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=mrakmondal6612&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true)
+  </div>
+</div>
+
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrakmondal6612&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrakmondal6612&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrakmondal6612&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrakmondal6612&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrakmondal6612&theme=github_dark" />
+</div>
+<br>
+
+
+<div align="center">
+  
+   ## 🏆 GitHub Trophies
+  
+  <!-- GitHub Trophies -->
+  
+![](https://github-profile-trophy.vercel.app/?username=mrakmondal6612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
+<br>
 
 
 
-#  
-## 📊 GitHub Stats:
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<!--
+<h1 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h1>
+<div align="center" style="max-width: 600px; margin: auto;">
+  <h3 style="text-align: left; font-size: 16px;">
+    🥳 Ranked #18 in GSSoC 2024 | 📈 163 Merged PRs | 🏆 Total Score: 3755
+  </h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="90px" height="90px" />
+    <img src="https://github.com/ananyag309/ananyag309/blob/main/Conqueror%20Badge.png" width="90px" height="90px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90px" height="90px" />
+    <img src="https://github.com/neeru24/Connect_icons/blob/main/Hack-Web3Conf%202024%20Badge%20(2).png" width="90px" height="90px" />
+  </div>
+</div>
+
+-->
+
+[![An image of @neeru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neeru)](https://holopin.io/@neeru)
+
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
+</div>
+
+ #
 
   
 ![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true)
@@ -98,10 +203,31 @@ Here are some ideas to get you started:
 
 [![Ajay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mrakmondal6612&theme=chartreuse-dark)](https://github.com/mrakmondal6612/github-readme-activity-graph)
 
+
+<!--Languages & tools-->
+<h1 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h1>
+
+<table align="center">
+	<tr>
+	<td><strong>Programming Languages</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+</tr>
+
+<tr>
+	<td><strong>Frontend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
+</tr>
+
+<tr>
+	<td><strong>Developer Tools</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
+</tr>
+
+</table>
+<br>
+
     
-## 🖥️ Technical Skills:
-
-
+<h1 align="center"> 🖥️ Technical Skills: </h1>
 <img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
 
 <!-- 
@@ -251,13 +377,13 @@ Here are some ideas to get you started:
 -->
 
 
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<br>
 <p align="center">
-<!-- <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
-</a> -->
-<!--   <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
-</a> -->
+
   <a href="https://www.linkedin.com/in/mr-ak/" target="blank">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
 </a>
@@ -273,28 +399,36 @@ Here are some ideas to get you started:
 
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z5X0MXQA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrakmondal6612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 <!--START_SECTION:waka-->
 
 ```text
 JavaScript   3 hrs 58 mins    █████████████████████████   100.00 %
 ```
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/mrakmondal6612.mrakmondal6612.svg)
-
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=016EEA&width=800&lines=This+page+is+best+viewed+in+dark+mode.;Hope+you+enjoy!;Now+we+both+probably+need+to+get+back+to+coding" />
 </p>
+
+<!--line-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <p align="center">
   <img height="33.9px" src="https://forthebadge.com/images/badges/built-with-love.svg">
   <img height="33.9px" src="https://github.com/8BitJonny/8BitJonny/blob/master/worksOnMyMachine.svg">
   <img height="33.9px" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg">
   <img height="33.9px" src="https://forthebadge.com/images/badges/makes-people-smile.svg">
 </p>
+
+
+<div align="center"> 
+    <h1> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+    </h1>
+</div>
