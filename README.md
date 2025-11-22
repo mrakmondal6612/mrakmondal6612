@@ -21,7 +21,7 @@
 </p>
 
 <div id="header" align="center">  
-	<img alt="coding" width="1000" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"> 
+	<img alt="coding" width="550" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"> 
 	<!-- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" /> -->
 <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/>  -->
 </div>
@@ -218,23 +218,33 @@
 
 
 <!--Languages & tools-->
-<h1 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h1>
+<h1 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "30px" height="38"> Languages, Tools and Technologies </h1>
 
-<table align="center">
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp&theme=dark"></td>
-</tr>
-
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js" ></td>
-</tr>
-
-<tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=github&theme=dark"></td>
-</tr>
+<table align="center" width="800px" height="410">
+	<tr width="800px">
+		<td><strong>Programming Languages</strong></td>
+		<td><img height=60 src = "https://skillicons.dev/icons?i=c,cpp,java,py&theme=dark"></td>	
+	</tr>
+	<tr width="800px">
+		<td><strong>Frontend Development</strong></td>
+		<td><img height=60 src = "https://skillicons.dev/icons?i=html,css,js,tailwind,figma,vite" ></td>
+	</tr>
+	<tr width="800px">
+		<td width="500px"><strong>Backend Development</strong></td>
+		<td width="800px"><img height=60 src = "https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,ts,nextjs,react,rust" ></td>
+	</tr>
+	<tr width="800px">
+		<td><strong>DevOps</strong></td>
+		<td><img height=60 src = "https://skillicons.dev/icons?i=docker,aws,postgresql,kubernetes,terraform,jenkins,gitlab" ></td>
+	</tr>
+	<tr width="800px">
+		<td><strong>Used Operating system</strong></td>
+		<td><img height=60 src = "https://skillicons.dev/icons?i=linux,arch,kali,debian,windows&theme=dark"></td>
+	</tr>
+	<tr width="800px">
+		<td><strong>Developer Tools</strong></td>
+		<td><img height=60 src = "https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark"></td>
+	</tr>
 
 </table>
 <br>
