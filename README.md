@@ -1,4 +1,9 @@
-[![MasterHead](https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/mrakmondal6612)
+
+<p align="center">
+  <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="1880" />
+</p>
+
+
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -253,6 +258,7 @@
 <h1 align="center"> 🖥️ Technical Skills: </h1>
 <img width="100%" src="https://github.com/8BitJonny/8BitJonny/raw/master/skills.svg">
 
+[![MasterHead](https://github.com/Gaurav26Singh/Gaurav26Singh/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://github.com/mrakmondal6612)
 <!-- 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
