@@ -21,7 +21,8 @@
 </p>
 
 <div id="header" align="center">  
-	<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+	<img alt="coding" width="1000" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"> 
+	<!-- <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" /> -->
 <!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/>  -->
 </div>
 
@@ -99,16 +100,14 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">      
 </a>
 </p> 
-<br>
-<!--
+<br> 
 <div align="center">
 <p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/ajay?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/mrakmondal6612?theme=dark&font=Nunito&ext=heatmap" width="1050px"/>  
 </p>
 <br>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=ajay&theme=black&font=Nunito&ext=heatmap" />
+
 </div>
--->
 
 <p align="center">
   <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="ajay" height="200" width="200" /></a>
@@ -174,8 +173,8 @@
 
 
 <!--line-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<!--
+<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 <h1 align="center"> ⚡ Open Source Programs & Achievements 🎖️</h1>
 <div align="center" style="max-width: 600px; margin: auto;">
   <h3 style="text-align: left; font-size: 16px;">
@@ -194,24 +193,24 @@
   </div>
 </div>
 
--->
+
 
 [![An image of @neeru's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neeru)](https://holopin.io/@neeru)
 
-<div align="center"> 
+<div align="center">  
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Keep+Learning+and+Exploring!;Let's+code+together!" alt="Typing SVG"/> 0000
     </h1>
 </div>
 
- #
+ #0
 
   
 ![](https://github-readme-stats.vercel.app/api?username=mrakmondal6612&theme=radical&_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrakmondal6612&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mrakmondal6612&theme=radical&hide_border=false)
 
-<!-- <img align="right" alt="coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"> -->
+000 -->
 
 <h2 align="center">Contribution Graph 📊</h2>
 
