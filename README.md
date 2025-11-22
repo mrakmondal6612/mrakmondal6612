@@ -16,12 +16,13 @@
 </p> 
 
 <p align="center">
-  <a href="https://github.com/mrakmondal6612">
+  <a href="https://github.com/mrakmondal6612"> 
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ajay+Mondal.....;Nice+To+Meet+You+....&center=true"></a>
 </p>
 
 <div id="header" align="center">  
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/> 
+	<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" />
+<!-- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="400"/>  -->
 </div>
 
 
@@ -62,7 +63,7 @@
 
  <h1 align="center" >🤝 Connect with me:</h1>
 <p align="center">
-<a href="https://leetcode.com/u/ajay/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="120"/></a>
+<a href="https://leetcode.com/u/ajay/" target="blank"> <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="120"/></a> 
 <!-- <a href="https://linktr.ee/" target="blank"><img align="center" src="https://ugc.production.linktr.ee/54520076-59d8-4151-8e3e-a7ea99876071_ident-canopy.gif?io=true&size=avatar-v3_0" width="100" /></a> -->
 <a href="https://twitter.com/AjayKumar6612" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Ajay" width="150" /> </a>
 <a href="https://www.linkedin.com/in/mr-ak/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="ajay" width="160" />
@@ -80,7 +81,7 @@
     <img align="center" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" width="30"/>
   </a> 
    Leetcode Info 
-</h1>
+</h1> 
 <!-- <P align="center">
 <img  src="https://leetcode-badge-showcase.vercel.app/api?username=ax&theme=black&font=Nunito&ext=heatmap" />
 </P> -->
@@ -110,11 +111,24 @@
 -->
 
 <p align="center">
-  <a href="https://leetcode.com/ajay/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="ajay" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ajay/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="ajay" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ajay/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="ajay" height="200" width="200" /></a>
-  <a href="https://leetcode.com/ajay/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="ajay" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" alt="ajay" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="ajay" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="ajay" height="200" width="200" /></a>
+  <a href="https://leetcode.com/mrakmondal6612/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="ajay" height="200" width="200" /></a>
 </p> 
+<details>
+  <summary><b>Show more</b></summary>
+
+  <p align="center">
+    <img 
+      src="https://leetcode-badge-showcase.vercel.app/api?username=mrakmondal6612&theme=black&font=Nunito&ext=heatmap" 
+      alt="Ajay Mondal" 
+      width="580"
+    />
+  </p>
+
+</details>
+
 <br>
 
 <!--line-->
